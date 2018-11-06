@@ -24,7 +24,6 @@ public class TestCustomerDao {
 	@Autowired
 	JdbcTemplate jdbcTemplate;
 
-	
 	@Test
 	void verificarSueldoInsertado() {
 
